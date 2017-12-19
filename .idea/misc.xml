@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/akkaCourse/advanced-akka-scala" value="1448307970000" />
+        <entry key="$USER_HOME$/akkaCourse/advanced-akka-scala-2" value="1448307970000" />
+        <entry key="$PROJECT_DIR$/../quantemplate/exercise" value="1442108087000" />
+        <entry key="$USER_HOME$/repo/scalable" value="1399670932000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
